@@ -1,6 +1,9 @@
 # Tent auth server
 
 ## Getting started
+Get twitter tokens from `https://apps.twitter.com/` and set these tokens.
+ex) .envrc.example
+
 ```
 $ go run main.go
 ```
